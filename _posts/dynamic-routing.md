@@ -1,7 +1,7 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/react-directus.jpg"
+title: "Dentibiotest est de sortie !"
+excerpt: "Après plusieurs mois de développement maison, l’équipe de La Forge Med’ vous présente Dentibiotest."
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Martin
@@ -10,10 +10,24 @@ ogImage:
   url: "/assets/blog/dynamic-routing/react-directus.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Dentibiotest est un outil de formation à la bonne prescription des antibiotiques en milieu bucco-dentaire et propose :
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+- Une centaine de cas cliniques dans tous les domaines possibles en odontologie
+- Des prescriptions comme les vraies, vous choisissez les molécules, la durée, la posologie, etc
+- Des réponses commentées et sourcées
 
-## Lorem Ipsum
+![Une Prescription sur dentibiotest](/assets/blog/dynamic-routing/Dentibiotest_prescription.png)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+2 formules sont disponibles : une mensuelle et une annuelle.
+
+Pour plus d’informations rendez vous directement sur notre page.
+
+Les formules payantes proposent :
+
+- Un suivi de vos réponses, avec un historique pour chaque session
+- L’accès à tous les cas cliniques sans limite
+- La possibilité de faire des sessions d’entraînements pour parfaire vos prescriptions
+- Des sessions en mode ‘examen’ ou les réponses ne sont données qu’à la fin de la série de question
+- Le choix des catégories disponibles : “endodontie, urgences, chirurgie et parodontologie”.
+
+Pour tester, rendez-vous directement sur [Dentibiotest](https://dentibiotest.fr).
