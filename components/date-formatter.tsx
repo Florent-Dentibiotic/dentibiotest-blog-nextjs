@@ -1,12 +1,16 @@
-import { parseISO, format } from 'date-fns'
+import { parseISO, format } from "date-fns";
+import fr from "date-fns/locale/fr";
 
 type Props = {
-  dateString: string
-}
+  dateString: string;
+};
+const locale = fr;
 
 const DateFormatter = ({ dateString }: Props) => {
-  const date = parseISO(dateString)
-  return <time dateTime={dateString}>{format(date, 'LLLL	d, yyyy')}</time>
-}
+  const date = parseISO(dateString);
+  return (
+    <time dateTime={dateString}>{format(date, "d MMM yyyy", { locale })}</time>
+  );
+};
 
-export default DateFormatter
+export default DateFormatter;

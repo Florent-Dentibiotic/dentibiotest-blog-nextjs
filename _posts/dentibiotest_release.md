@@ -2,7 +2,7 @@
 title: "Dentibiotest est de sortie !"
 excerpt: "Après plusieurs mois de développement maison, l’équipe de La Forge Med’ vous présente Dentibiotest."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2023-11-02T05:35:07.322Z"
 author:
   name: Martin
   picture: "/assets/blog/authors/zoz.jpeg"
