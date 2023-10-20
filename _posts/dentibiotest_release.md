@@ -1,13 +1,13 @@
 ---
 title: "Dentibiotest est de sortie !"
 excerpt: "Après plusieurs mois de développement maison, l’équipe de La Forge Med’ vous présente Dentibiotest."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/dentibiotest_release/cover.jpg"
 date: "2023-11-02T05:35:07.322Z"
 author:
   name: Martin
   picture: "/assets/blog/authors/zoz.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/react-directus.jpg"
+  url: "/assets/blog/dentibiotest_release/react-directus.jpg"
 ---
 
 Dentibiotest est un outil de formation à la bonne prescription des antibiotiques en milieu bucco-dentaire et propose :
@@ -16,7 +16,7 @@ Dentibiotest est un outil de formation à la bonne prescription des antibiotique
 - Des prescriptions comme les vraies, vous choisissez les molécules, la durée, la posologie, etc
 - Des réponses commentées et sourcées
 
-![Une Prescription sur dentibiotest](/assets/blog/dynamic-routing/Dentibiotest_prescription.png)
+![Une Prescription sur dentibiotest](/assets/blog/dentibiotest_release/Dentibiotest_prescription.png)
 
 2 formules sont disponibles : une mensuelle et une annuelle.
 
